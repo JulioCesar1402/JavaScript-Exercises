@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "eslint-config-trybe-backend": "^1.0.4",
+    "express": "^4.17.1"
+  },
+  "name": "beecrowd",
+  "version": "1.0.0",
+  "main": "2381.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./beecrowd/2235.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
